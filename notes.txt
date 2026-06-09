@@ -2,3 +2,4 @@
 "learning git" 
 "Third change" 
 "hello day2" 
+through points work 
